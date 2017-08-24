@@ -1,15 +1,9 @@
 # History
 
-Loomio began in 2011, when activists from Occupy Wall Street and social entrepreneurs from the [Enspiral](http://www.enspiral.com) network realised they needed to solve the same problem: fast, inclusive, effective decision-making without meetings. In 2012, we formed our cooperative and released a prototype (Loomio Beta). We found that many others around the world needed the same solution.
+We have created a movement around decentralized democracy. It began in Argentina when DemocracyOS founders Santiago Siri and Pia Mancini started the NET political party...and open source politics was born.  After graduating from [Silicon Valley’s YCombinator](https://www.fastcompany.com/3043388/why-y-combinator-funded-a-radical-political-party-in-argentina) (as its first nonprofit graduate) and Fast Forward accelerators, we open sourced  [our code](https://github.com/DemocracyEarth/sovereign) on the day of the American presidential electionwe. Shortly thereafter we piloted our Sovereign liquid democracy platform, in October 2016 as part of the [Colombian peace referendum of 2016](https://www.fastcompany.com/3062386/democracy-is-getting-a-reboot-on-the-blockchain), demonstrating how fully participatory democracy has the effect of reducing voter polarization, powerlessness and apathy among other findings.  
 
-In 2013, we ran a successful international crowdfunding campaign, enabling us to work on a new version of the software, Loomio 1.0, which was released the following year. In 2015, we raised a round of ethical capital, and are working to bring collaborative decision-making to millions more people around the world. 
+Democracy Earth Foundation is the [2016 Singularity University Global Governance Challenge](https://su.org/summits/su-global-summit/) winner and a [Fast Company 2017 World Changing Ideas](https://www.fastcompany.com/3068873/announcing-the-winners-of-the-2017-world-changing-ideas-awards) finalist.
 
-You can see a detailed timeline of our history between 2011 and 2015 here: http://www.loomio.org/timeline
 
-(we hope to update it with the more recent stuff soon)
+![DEF Team Members](img/DEFTeamMembers.png)
 
-If you prefer video, here's [a beautiful story from Ben Knight (33min)](https://www.youtube.com/watch?v=AJnjTd9u4zg), one of our cofounders. Or check [this 3-minute version from Rich](https://vimeo.com/169658755).
-
-<div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/AJnjTd9u4zg" frameborder="0" allowfullscreen></iframe>
-</div>
