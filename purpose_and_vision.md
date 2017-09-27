@@ -6,25 +6,32 @@ Humans are social creatures; if Descarte was right ("I think, therefore I am") a
 
 ## Values
 
-### Co-operative social enterprise
+### We are global citizens
 
-Loomio is a social enterprise collectively owned by the people building it. Unlike a traditional profit-maximising company, revenue is not an end in itself, but a means towards achieving a core social purpose. A worker-owned cooperative structure is a powerful way to live our values of collaboration and collective ownership.
+The DEF is a worker owned and operated collective of developers, hacktivists and social entrepreneurs pioneering a new style of political engagment with planetary impact.DEF is creating tools that give everyone the experience of being a digital nomad in a borderless world, embracing the entire earth as their home. 
 
-### Independent and neutral
+### Collaboration
 
-Loomio is committed to remaining independent so it can provide a neutral place for any group to come together.
+The DEF white paper - introducing the VOTE token to the world - resides on GitHub where more than 19 contributors from 15 countries collaborated to bring the vision of a Social Smart Contract into sharp focus. By desire and design, the Sovereign governance platform will truly be decision-making software of the people, by the people, for the people.
 
-### Open-source collaboration
+### User experience
 
-Loomio aims to develop open-source tools that make collaboration accessible to everyone.
+The DEF secret sauce is core to everything we do: it should be easy to participate in the decsions that affect your life. 
 
-### Adaptive, reflexive, user-driven
+### Dynamic representation
 
-Loomio aims to develop tools which are iterative, self-reflexive and adaptive, driven by the collective wisdom of the user community.
+The tactic of liquid democracy can increase not only participation in decision-making, but also the shared understanding of the issues. The ability to dynamically delegate one's vote - one's power - is a powerful tool for political accountability. 
+ 
+### Trust
+
+Trust is the building block of every single institution in the world. DEF is leading coding new kinds of organizations with software; we are redefining the nature of law. 
+
+The core building block that makes government possible is also the main interaction we have with the internet every day - voting.  
+
 
 ### Transparency
 
-The Loomio Co-operative will be surrounded by a valued community of users and contributors. This community must be confident that the Loomio Co-operative is doing what it says it is. We are committed to high standards for sharing information.
+Democracy Earth will maintain an active commitment to transparency and community engagement. From interacting on open source platforms like Github and Slack, to publishing content on channels like Medium and SoundCloud, to social sharing on Twitter and Facebook, DEF is dedicated to creating and maintaining multiple lines of communication to users and contributors.  
 
 ---
 
