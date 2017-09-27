@@ -5,7 +5,7 @@
 
 The software we build is [open source](http://github.com/DemcracyEarth/), and our organization is open source too... be sure to check out the DEF Open Source [White Paper and Manifestor, "The Smart Social Contract"] (https://github.com/DemocracyEarth/paper) on GitHub, all contributors are welcome. 
 
-This DEF organizational handbook is where we document how we run DEF efficiently and effectively as a **distributed, open, non-hierarchichal organization** using the best open source tools available.  
+This Democracy Earth organizational handbook is where we document how we run Democracy Earth efficiently and effectively as a **distributed, open, non-hierarchichal organization** using the best open source tools available.  
 
 At Democracy Earth we build software for collaborative decision making, used by thousands of organisations and communities around the world. Our greatest impact will not necessarily be to make governments more democratic, but to make any kind and size of institution, whether public or private, more engaging. If you’re looking for a way to make group decisions within any organization of people - whether it contains two or two billion - you'll want to join the movement to be a [Sovereign](https://github.com/DemocracyEarth/sovereign) decision-maker. 
 
