@@ -1,8 +1,8 @@
 # Purpose & Vision
 
-**The Loomio Co-operative exists to create a world where it’s easy for anyone to participate in decisions that affect them.**
+**Democracy Earth exists to enable a borderless world of global citizens with full personal sovereignty to participate in the decisions and debates that affect their personal, working and civic lives.**
 
-With the right collaborative process, groups generate better ideas, decisions and actions than any individual would by themselves. The Loomio Co-operative aims to break down the barriers to participation in decision-making at every level: in neighbourhoods, community organisations, businesses, social movements, and local and national governance.
+Humans are social creatures; if Descarte was right ("I think, therefore I am") and thinking is the fundamental building block of being, then surely organizing is the fundamental building block of being with others.  "We organize, therefore we decide." At Democracy Earth we create digital decision-making tools for organizations to make decisions that give a voice to all participants.
 
 ## Values
 
