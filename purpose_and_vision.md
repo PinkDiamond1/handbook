@@ -18,15 +18,13 @@ The DEF white paper - introducing the VOTE token to the world - resides on GitHu
 
 The DEF secret sauce is core to everything we do: it should be easy to participate in the decsions that affect your life. 
 
-### Dynamic representation
+### Representation
 
-The tactic of liquid democracy can increase not only participation in decision-making, but also the shared understanding of the issues. The ability to dynamically delegate one's vote - one's power - is a powerful tool for political accountability. 
+Everyone has a voice, and every voice should matter. Democracy Earth tools such as liquid democracy that can increase not only participation in decision-making, but also the shared understanding of the issues. The ability to dynamically delegate one's vote is a powerful tool for political accountability. 
  
 ### Trust
 
-Trust is the building block of every single institution in the world. DEF is leading coding new kinds of organizations with software; we are redefining the nature of law. 
-
-The core building block that makes government possible is also the main interaction we have with the internet every day - voting.  
+Trust is the building block of every single institution in the world. Democracy Earth aims to bring trust back to democracy. We are excited to live in an era of technology tools like the bitcoin blockchain enabling us to fight democracy's biggest adversary - corruption - coding new kinds of organizations with software, and even redefining the very nature of law. 
 
 
 ### Transparency
