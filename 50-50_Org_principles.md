@@ -1,7 +1,6 @@
 # Our 50/50 Orgnization Principles
 
-Democrac Earth is a 50/50 organization, an organizational design that allows for a balance between a fair ownership distribution and a sustainable model for liquidity. 
-
+Democracy Earth is a 50/50 organization, an organizational design that allows for a balance between a fair ownership distribution and a sustainable model for liquidity. 
 
 <img src='employees:investors.png'>
 
