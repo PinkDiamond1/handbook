@@ -4,7 +4,7 @@
 * [Our Foundation](our_Foundation.md)
    * [History](history.md)
    * [Purpose & Vision](purpose_and_vision.md)
-   * [Our principles](Our_principles.md)
+   * [Our 50-50_Organization](Our_50-50_Organization.md)
    * [Constitution](constitution.md)
    * [Governance](governance.md)
 * [Working together](working_together.md)
