@@ -14,9 +14,9 @@ The DEF is a worker owned and operated collective of developers, hacktivists and
 
 The DEF white paper - introducing the VOTE token to the world - resides on GitHub where more than 19 contributors from 15 countries collaborated to bring the vision of a Social Smart Contract into sharp focus. By desire and design, the Sovereign governance platform will truly be decision-making software of the people, by the people, for the people.
 
-### User experience
+### User driven
 
-The DEF secret sauce is core to everything we do: it should be easy to participate in the decsions that affect your life. 
+The DEF secret sauce  - a focus on an intuitive user experience - is core to everything we do: it should be easy to participate in the decsions that affect your life. 
 
 ### Representation
 
