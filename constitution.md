@@ -1,51 +1,49 @@
-# Constitution of Loomio Cooperative Limited
-Loomio is a [registered cooperative company](https://www.business.govt.nz/companies/app/ui/pages/companies/3971519) in New Zealand.
+# Constitution of Democracy Earth Foundation
+Democracy Earth is a California 501c3 nonprofit organization. The United States Internal Revenue Code section 501(c)(3) is a provision in the federal tax code that allows nonprofit organizations that meet the requirements to be exempt from certain taxes. The IRS regulates and regularly reviews exempt organizations to ensure that they are following the regulations and that the organization continues to do the work that led to its exempt status. Democracy Earth includes these guidelines as endemic to its organizational Constitution. 
 
 ## INTERPRETATION
 
 In this constitution, unless the context otherwise requires:
 
-* “Act” m eans the Companies Act 1993 and its amendments.
-* “s” m eans section references in the Act.
-* “solvency test” means the solvency test in s4 of the Act, as may be modified in accordance with the Act. 
-* “Co-op” or “Company” m eans Loomio Co­operative Limited.
-* “Transacting Shareholder” has the meaning ascribed to it in the Co-operative Companies Act 1996. 
-* “Transacting Share” means a share in the class established by Clause 2.1.
-* Definitions in Act – Words or expressions used in this constitution bear the same meaning as in the Act. “Loomio Co-Op” or “Loomio Co-operative” m eans the Company
+* “Democracy Earth” or "DEF" or "Democracy Earth Foundation" means the Comppany
 * Masculine, feminine, and neuter – Words which import any gender include the other genders.
 * Singular and plural – Words which import the singular and plural number include the plural and singular number respectively.
 * No limitation – the words “include”, “including” or similar do not imply any limitation.
-* Conflict – If there is a conflict between the provisions of this constitution and a mandatory provision of the Act, the Act shall prevail.
-* ordinary resolution – means a resolution approved by 75% (rounded down to the nearest whole person) o f the votes of those shareholders entitled to vote and voting on that resolution
-* special resolution – means a resolution approved by: (i) 90%; or (ii) if there are less than 30 Transacting Shareholders, 100% minus two votes; of the votes of those shareholders entitled to vote and voting on that resolution
+* ordinary resolution – means a resolution approved by 75% (rounded down to the nearest whole person) of the votes of those VOTE token holders entitled to vote and voting on that resolution
+* special resolution – means a resolution approved by: (i) 90%; or (ii) if there are less than 30 Transacting VOTE token holders, 100% minus two votes; of the votes of those VOTE token holders entitled to vote and voting on that resolution
 
 ## PART 1 – PURPOSE
-**1.1 The Loomio Co-operative exists to create a world where it’s easy for anyone to participate in decisions that affect them.**
+**1.1 Democracy Earth exists to enable a borderless world of global citizens with full personal sovereignty to participate in the decisions and debates that affect their personal, working and civic lives.**
 
-With the right collaborative process, groups generate better ideas, decisions and actions than any individual would by themselves. The Loomio Co-operative aims to break down the barriers to participation in decision-making at every level: in neighbourhoods, community organisations, businesses, social movements, and local and national governance.
+Humans are social creatures; if Descarte was right ("I think, therefore I am") and thinking is the fundamental building block of being, then surely organizing is the fundamental building block of being with others. "We organize, therefore we decide." At Democracy Earth we create digital decision-making tools for organizations to make decisions that give a voice to all participants.
 
-**Co-operative social enterprise**
-The Loomio Co-operative is a social enterprise collectively owned by the people building it. Its principal activity is co-operative and not less than 60% of the voting rights in the Company will be held by its transacting shareholders. Unlike a traditional profit­maximising company, revenue is not an end in itself, but a means towards achieving a core social purpose. A worker-owned Co-operative structure is a powerful way to live our values of collaboration and collective ownership.
+**We are global citizens**
 
-**Independent and neutral**
-The Loomio Co-operative is committed to remaining independent so it can provide a neutral place for any group to come together.
+The DEF is a worker owned and operated collective of developers, hacktivists and social entrepreneurs pioneering a new style of political engagment with planetary impact.DEF is creating tools that give everyone the experience of being a digital nomad in a borderless world, embracing the entire earth as their home.
 
-**Open-source collaboration**
-The Loomio Co-operative aims to develop open-source tools that make collaboration accessible to everyone.
+**Collaboration**
 
-**Adaptive, reflexive, user-driven**
-The Loomio Co-operative aims to develop tools which are iterative, self-reflexive and adaptive, driven by the collective wisdom of the user community.
+The DEF white paper - introducing the VOTE token to the world - resides on GitHub where more than 19 contributors from 15 countries collaborated to bring the vision of a Social Smart Contract into sharp focus. By desire and design, the Sovereign governance platform will truly be decision-making software of the people, by the people, for the people.
+
+**User driven**
+
+The DEF secret sauce - to emphasize the user experience above all else -  is core to everything we do: it should be easy to participate in the decsions that affect your life.
+
+**Representation**
+
+Everyone has a voice, and every voice should matter. Democracy Earth tools such as liquid democracy that can increase not only participation in decision-making, but also the shared understanding of the issues. The ability to dynamically delegate one's vote is a powerful tool for political accountability.
+
+**Trust**
+
+Trust is the building block of every single institution in the world. Democracy Earth aims to bring trust back to democracy. We are excited to live in an era of technology tools like the bitcoin blockchain enabling us to fight democracy's biggest adversary - corruption - coding new kinds of organizations with software, and even redefining the very nature of law.
 
 **Transparency**
-The Loomio Co-operative will be surrounded by a valued community of users and contributors. This community must be confident that the Loomio Co-operative is doing what it says it is. The Loomio Co-operative is committed to high standards for sharing information and maintaining open books.
 
-**1.2** The Co-op is authorised to apply for registration as a Co-operative company under the Co-operative Companies Act 1996.
+Democracy Earth will maintain an active commitment to transparency and community engagement. From interacting on open source platforms like Github and Slack, to publishing content on channels like Medium and SoundCloud, to social sharing on Twitter and Facebook, DEF is dedicated to creating and maintaining multiple lines of communication to users and contributors.
 
-*The relationship between the Constitution and the Co-operative Companies Act 1996*
-**1.3** Loomio Co-operative Limited is registered under the Co-operative Companies Act 1996, the Companies Act 1993, and as such shall have the rights, powers, duties and obligations set out in the Co-operative Companies Act 1996, the Companies Act 1993 and this Constitution.
-**1.4** The Company, the Board, each Director and each Shareholder have the rights, powers, duties and obligations set out in the Companies Act 1993 or the Co-operative Companies Act 1996 except to the extent that they are negated or modified by this Constitution.
+**1.2** The Company, the Board, each Director and each Shareholder have the rights, powers, duties and obligations set out in the Companies Act 1993 or the Co-operative Companies Act 1996 except to the extent that they are negated or modified by this Constitution.
 
-## PART 2 – SHARES
+## PART 2 – SHARES (continue editing from this point)
 
 ### 2 RIGHTS AND POWERS ATTACHING TO SHARES
 **2.1 Transacting Shares**
