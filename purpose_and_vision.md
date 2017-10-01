@@ -1,14 +1,19 @@
 # Purpose & Vision
 
-**Democracy Earth exists to enable a borderless world of global citizens with full personal sovereignty to participate in the decisions and debates that affect their personal, working and civic lives.**
+**Democracy Earth exists to enable incorruptible decision making.**  
 
+Democracy is, at its core, decision making. What Democracy Earth is about incorruptible decision making in governance.  
+We envision a borderless world of global citizens with full personal sovereignty, participating in the decisions and debates that affect their personal, working and civic lives.
+ 
 Humans are social creatures; if Descarte was right ("I think, therefore I am") and thinking is the fundamental building block of being, then surely organizing is the fundamental building block of being with others.  "We organize, therefore we decide." At Democracy Earth we create digital decision-making tools for organizations to make decisions that give a voice to all participants.
+
+.At Democracy Earth we are not just pushing direct democracy. We’re not even pushing liquid democracy; liquid democracy is just a tool that just supports today’s illiquid, frozen democracy. We’re  political structure agnostics. 
 
 ## Values
 
 ### We are global citizens
 
-The DEF is a worker owned and operated collective of developers, hacktivists and social entrepreneurs pioneering a new style of political engagment with planetary impact.DEF is creating tools that give everyone the experience of being a digital nomad in a borderless world, embracing the entire earth as their home. 
+The DEF is a worker owned and operated collective of developers, hacktivists and social entrepreneurs pioneering a new style of political engagment with planetary impact. DEF is creating tools that give everyone the experience of being a digital nomad in a borderless world, embracing the entire earth as their home. 
 
 ### Collaboration
 
