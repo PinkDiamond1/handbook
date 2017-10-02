@@ -1,12 +1,12 @@
 # Our 50-50 Organization
 
-Democracy Earth is a 50/50 organization, an organizational design that allows for a balance between a fair ownership distribution and a sustainable model for liquidity. 
+Democracy Earth is a 50/50 organization is a plural ownership model of orgnaizationa design that allows for a balance between a fair ownership distribution and a sustainable model for liquidity while providing an engine for community wealth building.  
 
 <img src='employees:investors.png'>
 
 ## What is a 50/50 Organization?
 
-The 50/50 cap table is a framework that aims to promote a healthy development, for any kind of organization, through a balanced distribution of shares: 50% of ownership is set for employees and the remaining 50% for investors. 
+The 50/50 cap table is a design framework that aims to promote a healthy development, for any kind of organization, through a balanced distribution of shares: 50% of ownership is set for employees and the remaining 50% for investors. 
 
 The 50/50 organization promotes organizational democracy, personal autonomy and community solidarity in both the workplace and the civic space in which it resides. The 50/50 organization mirrors many of the strengths of the traditional worker cooperative model, i.e. an organization that is owned and operated by the workers themselves, who equally participate in the decision-making and wealth creation of the enterprise.  
 
